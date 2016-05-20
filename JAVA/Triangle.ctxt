@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=one\ two\ three
+comment0.target=Triangle(double,\ double,\ double)
+comment0.text=\r\n\ \ Create\ a\ triangle\ with\ all\ three\ sides\ provided\r\n
+comment1.params=
+comment1.target=boolean\ isTriangle()
+comment1.text=\r\n\ determines\ if\ the\ three\ sides\ can\ be\ a\ triangle\r\n\ by\ using\ the\ triangle\ inequality\r\n\ @return\ whether\ or\ not\ it\ qualifies\ as\ a\ triangle\r\n
+comment2.params=
+comment2.target=double\ findArea()
+comment2.text=\r\n\ Uses\ Heron's\ formula\ to\ determine\r\n\ the\ area\ of\ the\ triangle\r\n\ @return\ the\ area\ of\ the\ triangle\r\n
+numComments=3
